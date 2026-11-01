@@ -61,9 +61,9 @@ Replace the placeholders with your own project credentials.
 
 ### Database Configuration
 
-**Make sure your Supabase project has the required database tables, columns, and security policies structured according to TaskFlow's application requirements.
+Make sure your Supabase project has the required database tables, columns, and security policies structured according to TaskFlow's application requirements.
 
-The database structure should support the application's core features, including user routines, daily task tracking, one-time tasks, and meal tracking.**
+The database structure should support the application's core features, including user routines, daily task tracking, one-time tasks, and meal tracking.
 
 **Security notes:**
 
