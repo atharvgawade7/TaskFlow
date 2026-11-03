@@ -46,10 +46,7 @@ export default function DeleteConfirmModal({
           <button
             type="button"
             className="btn-danger"
-            onClick={() => {
-              onConfirm();
-              onClose();
-            }}
+            onClick={onConfirm}
           >
             Yes, Delete
           </button>
